@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/scan_log.json
+dist/
+build/
+*.spec
+.venv/
